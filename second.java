@@ -10,7 +10,7 @@ public class second {
 			System.out.println(" ");
 		}
 
-		for (int i = 3; i >= 1; i--) // for printing "*"  
+		for (int i = 3; i >= 1; i--) // for printing "*"
 		{
 			for (int j = 0; j < i; j++) {
 				System.out.print("*");
